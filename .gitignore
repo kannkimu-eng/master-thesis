@@ -27,6 +27,7 @@ venv/
 *.vrb
 *.bbl
 *.blg
+*.pdf
 
 # Notes LaTeX specific
 notes/*.aux
@@ -35,3 +36,4 @@ notes/*.out
 notes/*.fls
 notes/*.fdb_latexmk
 notes/*.synctex.gz
+notes/*.pdf
