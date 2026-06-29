@@ -14,7 +14,6 @@ __pycache__/
 venv/
 .env
 
-# LaTeX specific
 *.aux
 *.log
 *.out
@@ -27,6 +26,7 @@ venv/
 *.vrb
 *.bbl
 *.blg
+*.dvi
 *.pdf
 
 # Notes LaTeX specific
